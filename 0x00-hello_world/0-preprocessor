@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc $CFILE > c
+gcc export $CFILE=0-main.c > c
+
