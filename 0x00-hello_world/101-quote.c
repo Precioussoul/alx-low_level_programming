@@ -7,6 +7,6 @@
 int main(void)
 {
 char wrd[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
-write(2, word, sizeof(wrd));
+write(2, wrd, sizeof(wrd));
 return (1);
 }
