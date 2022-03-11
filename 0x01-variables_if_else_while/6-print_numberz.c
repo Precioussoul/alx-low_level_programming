@@ -1,17 +1,16 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * main - entry point
- * Return: 0
- */
+* main - entry point
+* Return: 0
+*/
 int main(void)
 {
-char i;
-i = '0';
-for (; i <= '9'; i++)
+int i;
+for (i = 0; i < 10; i++)
 {
-putchar(i);
+putchar((i % 10) + '0');     
 }
 putchar('\n');
-return (0);
-}
+return (0); 
+} 
