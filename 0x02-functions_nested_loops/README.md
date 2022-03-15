@@ -1,1 +1,1 @@
-this is functions and nested loops exercises
+readme
