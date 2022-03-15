@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-int printCharacter(char c);
+char printCharacter(char c);
 
 #endif

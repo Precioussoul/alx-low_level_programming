@@ -1,3 +1,0 @@
-int printCharacter (char c){
-return putchar(c);
-}
