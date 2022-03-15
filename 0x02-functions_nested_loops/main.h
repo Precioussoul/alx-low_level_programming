@@ -1,3 +1,6 @@
-char _purchar (char c){
-  purchar(c);
-}
+#ifndef MAIN_H
+#define MAIN_H
+
+int printCharacter(char c);
+
+#endif
