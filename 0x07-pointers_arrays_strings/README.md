@@ -1,0 +1,1 @@
+welcome to lesson seven 7 on more pointers, arrays, and strings exercise on C-language.
