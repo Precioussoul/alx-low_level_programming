@@ -1,0 +1,1 @@
+this is statics libraries exercises in C 
